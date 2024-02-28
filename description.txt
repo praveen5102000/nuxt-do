@@ -1,0 +1,102 @@
+<p>
+    Introducing YNEX NUXT3 Admin Template – a robust and versatile solution designed to elevate your web application development experience. Packed with an array of features, this template ensures seamless customization and a visually appealing interface for your project. Here's a glimpse of what makes YNEX NUXT3 stand out:
+</p>
+
+<h2>Comprehensive Dashboards:</h2>
+<p>Empower your project with 12 thoughtfully crafted dashboards, providing diverse insights and functionalities to cater to various user needs.</p>
+
+<h2>Flexible Layout Options:</h2>
+<ul>
+    <li>
+        <p><b>LTR and RTL Support:</b> YNEX NUXT3 adapts to both left-to-right and right-to-left orientations, ensuring a global reach for your application.</p>
+    </li>
+    <li>
+        <p><b>Vertical and Horizontal Side Menu:</b> Choose between vertical and horizontal side menus for a layout that suits your project's requirements.</p>
+    </li>
+</ul>
+
+<h2>Versatile Side Menu Styles:</h2>
+Customize your side menu with a range of styles, including menu-click, menu-hover, icon-click, and icon-hover, enhancing user interaction.
+
+<h2>Dynamic Vertical Side Menu Layouts:</h2>
+<p>Explore a variety of vertical side menu layouts, including closed menu, icon text, icon overlay, detached, and double menu, for a personalized user experience.</p>
+
+<h2>Diverse Page Styles:</h2>
+<p>Select from regular, classic, and modern page styles to tailor the appearance of your content to match your project's aesthetics.</p>
+
+<h2>Layout Width Options:</h2>
+<p>Opt for full-width or boxed-width layouts to strike the right balance between content and design.</p>
+
+<h2>Fixed or Scrollable Menu and Header:</h2>
+<p>Adjust the menu and header positions as per your preference, choosing between fixed and scrollable options.</p>
+
+<h2>Menu and Header Colors:</h2>
+<p>Customize the look and feel with dark, light, color, gradient, and transparent menu and header options.</p>
+
+<h2>Dynamic Color Change:</h2>
+<p>Enjoy the flexibility of dynamic primary and background color changes to adapt the template to your branding or thematic requirements.</p>
+
+<h2>Background Images for Side Menu:</h2>
+<p>Add visual appeal with a variety of background images for the side menu, enhancing the overall user experience.</p>
+
+<h2>Extensive Component Library:</h2>
+<p>Access over 160 meticulously crafted components, excluding reusable components that are well-structured and commonly used.</p>
+
+<h2>Recursive Menu for Infinite Levels:</h2>
+<p>Navigate seamlessly with a recursive menu that supports an unlimited number of levels and slides, providing a scalable solution for your application.</p>
+
+<h2>Pinia for Authentication</h2>
+<p>Leverage the power of Pinia for user authentication and switcher functionalities, enhancing security and user managemen</p>
+
+<h2>Easy Customization:</h2>
+<p>YNEX NUXT3 is designed to be user-friendly and easily customizable, allowing developers to tailor the template to specific project needs effortlessly.</p>
+<p>Elevate your web development journey with YNEX NUXT3 Admin Template – where functionality meets aesthetic customization with ease.</p>
+
+
+<h2>Template features</h2>
+<ul>
+    <li>Bootstrap 5 Responsive Framework</li>
+    <li>Basic user authentication</li>
+    <li>12 different types of Dashboards</li>
+    <li>Google Fonts</li>
+    <li>SCSS Powered</li>
+    <li>Swiper</li>
+    <li>Dark & Light Versions</li>
+    <li>Boxed & FullLayout</li>
+    <li>LTR & RTL versions</li>
+    <li>4+ Plugins</li>
+    <li>Accordion</li>
+    <li>Carousel</li>
+    <li>vue-multiselect</li>
+    <li>File upload</li>
+    <li>Fullcalendar</li>
+    <li>Register pages</li>
+    <li>login pages</li>
+    <li>Under Construction Page</li>
+    <li>Easy to customize</li>
+    <li>Well Commented Code</li>
+    <li>Regular Updates</li>
+    <li>Neat, clean and simple design</li>
+    <li>W3C Validated</li>
+    <li>24 * 7 Professional Company Support</li>
+</ul>
+
+<h2>Dependencies</h2>
+
+<ul>
+    <li>NUXT3</li>
+    <li>Vue3</li>
+    <li>Bootstrap5</li>
+    <li>No JQuery Dependency</li>
+    <li>Sass</li>
+    <li>Pinia</li>
+</ul>
+
+<h2>What do you get?</h2>
+<ul>
+    <li>CSS FIles</li>
+    <li>SCSS FIles</li>
+    <li>.vue component FIles</li>
+    <li>Starter Kit</li>
+    <li>Documentation</li>
+</ul>
